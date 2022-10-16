@@ -1,0 +1,38 @@
+# Generated due to running <ROOT>/autogen.sh
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.guess
+config.h.in
+config.sub
+configure
+depcomp
+install-sh
+ltmain.sh
+m4/
+missing
+test-driver
+
+# Generated due to running <ROOT>/configure
+Makefile
+config.h
+config.log
+config.status
+libtool
+src/libchidb/.deps/
+src/libchisql/.deps/
+src/shell/.deps/
+src/simclist/.deps/
+stamp-h1
+tests/.deps/
+
+# Genetated due to running <ROOT>/make
+.libs/
+*.la
+*.o
+*.lo
+.dirstamp
+chidb
+src/libchisql/sql-lexer.*
+src/libchisql/sql-parser.*
